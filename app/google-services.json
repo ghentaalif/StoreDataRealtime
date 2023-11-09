@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "213469731246",
+    "firebase_url": "https://storedatarealtime-2fa80-default-rtdb.firebaseio.com",
+    "project_id": "storedatarealtime-2fa80",
+    "storage_bucket": "storedatarealtime-2fa80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213469731246:android:a143307e483fed4c2f103f",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwhsdMYthmwBaaEqKZ51wNkzH5zIpY2f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213469731246:android:4bb5c46ea6b251702f103f",
+        "android_client_info": {
+          "package_name": "id.ac.unp.ft.elektronika.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwhsdMYthmwBaaEqKZ51wNkzH5zIpY2f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
